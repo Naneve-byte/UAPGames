@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/androd"
+    android:layout_height="match_parent"
+    android:background="#015198">
+
+
+    <ImageView
+        android:id="@+id/img_detail_game"
+        style="@style/androd"
+
+        android:layout_marginTop="-11dp"
+        tools:src="@tools:sample/avatars" />
+
+    <TextView
+
+        android:id="@+id/tv_detail"
+        style="@style/androd.text_title"
+        android:layout_below="@id/img_detail_game"
+        android:fontFamily="@font/motivasansregularwoff"
+        tools:text="@tools:sample/full_names" />
+
+    <TableLayout
+        style="@style/androd.tabel"
+        android:layout_below="@id/tv_detail">
+
+        <TableRow
+            style="@style/androd"
+            android:layout_marginBottom="10dp">
+
+            <TextView
+                style="@style/TextSpec.Field"
+                android:text="@string/developer" />
+
+            <TextView
+                android:id="@+id/tv_dev"
+                style="@style/TextSpec.Field"
+                android:text="@string/dota_dev_pub" />
+
+        </TableRow>
+
+        <TableRow
+            style="@style/androd"
+            android:layout_marginBottom="10dp">
+
+            <TextView
+                style="@style/TextSpec.Field"
+                android:text="@string/publisher" />
+
+            <TextView
+                android:id="@+id/tv_pub"
+                style="@style/TextSpec.Field"
+                android:text="@string/dota_dev_pub" />
+        </TableRow>
+
+        <TableRow
+            style="@style/androd"
+            android:layout_marginBottom="10dp">
+
+            <TextView
+                style="@style/TextSpec.Field"
+                android:text="@string/release" />
+
+            <TextView
+                style="@style/TextSpec.Field"
+                android:id="@+id/tv_detaiL_release"
+                android:text="@string/dota_release" />
+
+
+        </TableRow>
+
+        <Button
+            style="@style/androd"
+            android:text="PLAY" />
+
+        <TextView
+            style="@style/androd"
+            android:text="Description :"
+            android:textColor="#A3BEBF" />
+
+        <TextView
+            style="@style/androd"
+            android:id="@+id/detail_game"
+            android:textColor="#A3BEBF"
+            tools:text="@tools:sample/full_names" />
+
+    </TableLayout>
+</RelativeLayout>

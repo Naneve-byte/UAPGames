@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">UAPGameS</string>
+    <string name="detail">Detail</string>
+    <string name="list">list</string>
+    <string name="nama">Nanang Dwi Febrianto</string>
+    <string name="image_game">Image Game</string>
+
+
+    <string name="developer">Developer</string>
+    <string name="publisher">Publisher</string>
+    <string name="release">Released</string>
+
+    <!--DOTA 2-->
+    <string name="dota_2">Dota 2</string>
+    <string name="dota_dev_pub">Valve</string>
+    <string name="dota_release">10Jul, 201</string>
+    <string name="dota_detail">Setiap hari, jutaan pemain di seluruh dunia memasuki pertempuran sebagai salah satu dari lebih dari seratus pahlawan Dota. Dan tidak peduli apakah itu jam ke-10 atau ke-1.000, selalu ada sesuatu yang baru untuk ditemukan. Dengan pembaruan rutin yang memastikan evolusi gameplay, fitur, dan pahlawan yang konstan, Dota 2 telah menjalani kehidupannya sendiri.</string>
+    <!--Counter-Strike:Global Offensive -->
+    <string name="CSGO">Counter-Strike: Global Offensive</string>
+    <string name="csgo_dev">Valve, Hidden Path Entertainment</string>
+    <string name="csgo_release">22 Aug, 2012</string>
+    <string name="csgo_detail">Counter-Strike: Global Offensive (CS: GO) memperluas gameplay aksi berbasis tim yang dirintisnya saat diluncurkan 19 tahun lalu. CS: GO menampilkan peta, karakter, senjata, dan mode permainan baru, dan memberikan versi terbaru dari konten CS klasik (de_dust2, dll.).</string>
+    <!--Sea of Thieves -->
+    <string name="SoT">Sea of Thieves</string>
+    <string name="SoT_dev">Rare Ltd</string>
+    <string name="SoT_pub">Xbox Game Studios</string>
+    <string name="SoT_release">3 Jun, 2020</string>
+    <string name="SoT_detail">Sea of Thieves menawarkan pengalaman bajak laut yang penting, mulai dari berlayar dan bertarung hingga menjelajahi dan menjarah - semua yang Anda butuhkan untuk menjalani kehidupan bajak laut dan menjadi legenda dengan hak Anda sendiri. Tanpa peran yang ditetapkan, Anda memiliki kebebasan penuh untuk mendekati dunia, dan pemain lain, apa pun yang Anda pilih.</string>
+    <!--Grand Theft Auto V -->
+    <string name="GTAV">Grand Theft Auto V</string>
+    <string name="GTAV_dev">Rockstar North</string>
+    <string name="GTAV_pub">Rockstar Games</string>
+    <string name="GTAV_release">14 Apr, 2015</string>
+    <string name="GTAV_detail">Grand Theft Auto V untuk PC menawarkan pemain pilihan untuk menjelajahi dunia pemenang penghargaan Los Santos dan Blaine County dalam resolusi hingga 4k dan lebih, serta kesempatan untuk mengalami permainan berjalan pada 60 frame per detik.</string>
+    <!--Red dead Redemption 2 -->
+    <string name="RDR2">Red Dead Redemption 2</string>
+    <string name="RDR2_dev">Rockstar Games</string>
+    <string name="RDR2_pub">Rockstar Games</string>
+    <string name="RDR2_release">6 Dec, 2019</string>
+    <string name="RDR2_detail">Pemenang lebih dari 175 Game of the Year Awards dan penerima lebih dari 250 skor sempurna, RDR2 adalah kisah epik penjahat Arthur Morgan dan geng Van der Linde yang terkenal, dalam pelarian melintasi Amerika pada awal zaman modern. Juga termasuk akses ke dunia hidup bersama Red Dead Online.</string>
+    <!--ELDEN RING -->
+    <string name="ER">ELDEN RING</string>
+    <string name="ER_dev">FromSoftware Inc.</string>
+    <string name="ER_pub">FromSoftware Inc., Bandai Namco Entertainment</string>
+    <string name="ER_release">25 Feb, 2022</string>
+    <string name="ER_detail">RPG AKSI FANTASI BARU. Bangkit, Ternodai, dan dibimbing oleh rahmat untuk mengacungkan kekuatan Cincin Elden dan menjadi Elden Lord di Negeri Antara.</string>
+    <!--Forza Horizon 5 -->
+    <string name="FH5">Forza Horizon 5</string>
+    <string name="FH5_dev">Playground Games</string>
+    <string name="FH5_pub">Xbox Hame Studios</string>
+    <string name="FH5_release">9 Nov, 2021</string>
+    <string name="FH5_detail">Terbang ke Horizon Hot Wheels Park yang menakjubkan secara visual di atas awan di atas Meksiko. Balap 10 mobil baru yang menakjubkan di trek tercepat dan paling ekstrem yang pernah dibuat. Rancang, bangun, dan bagikan petualangan Hot Wheels Anda sendiri. Membutuhkan game Forza Horizon 5, dijual terpisah</string>
+    <!--Sid Meier's Civilliatiom VI -->
+    <string name="SMCVI">Sid Meier’s Civilization® VI</string>
+    <string name="SMCVI_dev">Firaxis Games, Aspyr(Mac), Aspyr(Linux)</string>
+    <string name="SMCVI_pub">2k, Aspyr (Mac, Linux)</string>
+    <string name="SMCVI_release">21 Oct, 2016</string>
+    <string name="SMCVI_detail">Civilization VI adalah angsuran terbaru dalam Waralaba Peradaban pemenang penghargaan. Perluas kerajaan Anda, majukan budaya Anda, dan berhadapan langsung dengan para pemimpin terbesar dalam sejarah. Akankah peradaban Anda bertahan dalam ujian waktu?</string>
+    <!--Cities:Skayline -->
+    <string name="CS">Cities: Skylines</string>
+    <string name="CS_dev">Colossal Order Ltd.</string>
+    <string name="CS_pub">Paradox Interactive</string>
+    <string name="CS_release">10 Mar, 2015</string>
+    <string name="CS_detail">Cities: Skylines adalah versi modern dari simulasi kota klasik. Gim ini memperkenalkan elemen permainan gim baru untuk mewujudkan sensasi dan kesulitan dalam menciptakan dan memelihara kota nyata sambil memperluas beberapa kiasan pengalaman membangun kota yang mapan.</string>
+    <!--VRChat -->
+    <string name="vrchat">VRChat</string>
+    <string name="VRchat_dev">VRChat Inc.</string>
+    <string name="VRchat_pub">VRChat Inc.</string>
+    <string name="VRchat_release">1 Feb, 2017</string>
+    <string name="VRchat_detail">Bergabunglah dengan komunitas kami yang berkembang saat Anda menjelajahi, bermain, dan membantu menyusun masa depan VR sosial. Buat dunia dan avatar khusus. Selamat datang di VRChat.</string>
+    <!--The Sims 4 -->
+    <string name="thesims4">The Sims™ 4</string>
+    <string name="thesims4_dev">Maxis</string>
+    <string name="thesims4_pub">Electronic Arts</string>
+    <string name="thesims4_release">2 Sep, 2014</string>
+    <string name="thesims4_detail">Bermainlah dengan kehidupan dan temukan kemungkinannya. Bebaskan imajinasi Anda dan ciptakan dunia Sims yang sepenuhnya unik. Jelajahi dan sesuaikan setiap detail dari Sims hingga rumah–dan banyak lagi.</string>
+    <!--Stray  -->
+    <string name="stray">Stray</string>
+    <string name="stray_dev">BlueTwelve Studio</string>
+    <string name="stray_pub">Annapurna interactive</string>
+    <string name="stray_release">19 Jul, 2022</string>
+    <string name="stray_detail">Tersesat, sendirian dan terpisah dari keluarga, seekor kucing liar harus mengungkap misteri kuno untuk melarikan diri dari kota dunia maya yang telah lama terlupakan dan menemukan jalan pulang.</string>
+    <!--NARAKA: BLADEPOINT -->
+    <string name="narakabladepoi">NARAKA: BLADEPOINT</string>
+    <string name="narakabladepoi_dev">24 Entertainment</string>
+    <string name="narakabladepoi_pub">NetEase Games Montréal</string>
+    <string name="narakabladepoi_release">12 Aug, 2021</string>
+    <string name="narakabladepoi_detail">NARAKA: BLADEPOINT adalah pengalaman pertempuran aksi mitos PVP hingga 60 pemain dengan pertarungan jarak dekat yang terinspirasi seni bela diri, mobilitas yang menentang gravitasi, gudang senjata jarak dekat dan jarak jauh yang luas, pahlawan legendaris yang dapat disesuaikan dengan kemampuan epik - terinspirasi oleh legenda Timur Jauh.</string>
+    <!--Phoenix Wright:Ace Attorney Trilogy -->
+    <string name="PWAAT">Phoenix Wright: Ace Attorney Trilogy</string>
+    <string name="PWAAT_dev">CAPCOM Co., Ltd</string>
+    <string name="PWAAT_pub">CAPCOM Co., Ltd</string>
+    <string name="PWAAT_release">9 Apr, 2019</string>
+    <string name="_detail">Menjadi Phoenix Wright dan rasakan sensasi pertempuran saat Anda berjuang untuk menyelamatkan klien Anda yang tidak bersalah di pengadilan. Mainkan semua 14 episode, mencakup tiga game pertama, dalam satu koleksi cantik.</string>
+    <!--Doki Doki Literature Club Plus! -->
+    <string name="DDLCP">Doki Doki Literature Club Plus!</string>
+    <string name="DDLCP_dev">Team Salvato</string>
+    <string name="DDLCP_pub">Serenity Forge</string>
+    <string name="DDLCP_release">30 Jun, 2021</string>
+    <string name="DDLCP_detail">Selamat Datang di klub! Tulis puisi untuk gebetanmu dan alami teror romansa sekolah dalam kisah horor psikologis yang mendapat pujian kritis ini.</string>
+    <!--Coffe Talk-->
+    <string name="CT">Coffee Talk</string>
+    <string name="CTdev">Toge Productions</string>
+    <string name="CT_pub">Toge Productions</string>
+    <string name="CT_release">30 Jan, 2020</string>
+    <string name="CT_detail">Coffee Talk adalah simulator menyeduh kopi dan berbicara dari hati ke hati tentang mendengarkan masalah masyarakat modern yang terinspirasi fantasi, dan membantu mereka dengan menyajikan satu atau dua minuman hangat.</string>
+</resources>
